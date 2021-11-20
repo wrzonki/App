@@ -2,11 +2,13 @@ name: Run Python Tests
 on:
   push:
     branches:
-      - master
+      - dev
   pull_request:
     branches:
       - master
 #some name
+      - dev
+
 jobs:
   build:
     runs-on: ubuntu-latest
