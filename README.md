@@ -1,1 +1,1 @@
-![](https://github.com/wrzonki/app/workflows/Tests/badge.svg)
+[![Tests](https://github.com/wrzonki/app/actions/workflows/ci.yml/badge.svg)](https://github.com/wrzonki/app/actions/workflows/ci.yml)
