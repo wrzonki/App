@@ -1,1 +1,1 @@
-[![Tests](https://github.com/wrzonki/app/actions/workflows/ci.yml/badge.svg)](https://github.com/wrzonki/app/actions/workflows/ci.yml)
+Current test status: [![Tests](https://github.com/wrzonki/app/actions/workflows/ci.yml/badge.svg)](https://github.com/wrzonki/app/actions/workflows/ci.yml)
