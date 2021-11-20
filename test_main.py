@@ -1,8 +1,5 @@
-import unittest
-import main
+from main import add
 
-
-class TestMain(unittest.TestCase):
-  def test_add(self):
-    result = main.add(10, 5)
-    self.assertEquals(result, 16)
+def test_run_add():
+    result = add(5, 10)
+    assert result == 15
