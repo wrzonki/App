@@ -6,11 +6,8 @@ on:
   pull_request:
     branches:
       - master
-<<<<<<< HEAD
 #some name #aaa
-=======
 #some name
->>>>>>> 3099cb937da68608c687ca99d2898f35bbbd19f4
 jobs:
   build:
     runs-on: ubuntu-latest
